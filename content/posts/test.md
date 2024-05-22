@@ -1,8 +1,8 @@
 ---
-title = ''
-date = ''
-# weight: 1
-tags: 
+categories: ["themes", "syntax"]
+title: "This is a test"
+tags: ["markdown", "css", "html", "themes"]
+date: "2024-05-22 12:59"
 author: "Hiraeth"
 showToc: true
 TocOpen: false
@@ -23,9 +23,10 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: 
-    alt: 
+# image: 
+    alt: "alt"
     caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
 ---
+# Title
